@@ -1,3 +1,5 @@
 networkx
 bokeh
 seaborn
+visJS2jupyter
+plotly
