@@ -1,0 +1,26 @@
+ego_id_nonpart;farm_type;furt_reduc_nonpart;CC_import_nonpart;CC_import_change_nonpart;know_agroconcept;consider_part
+57;Milchviehhaltung;1;4;5;1;0
+58;Ackerland;0;5;3;1;1
+59;Ackerland;1;3;5;1;0
+60;Ackerland;1;5;3;1;1
+61;Ackerland;0;3;4;1;0
+62;;0;5;4;1;0
+63;;2;4;4;1;0
+64;Ackerland;1;4;5;1;0
+65;Milchviehhaltung;1;3;5;1;1
+66;Anderer Betriebsschwerpunkt;1;4;5;1;0
+67;Gemüsebau;1;4;5;1;0
+68;Gemüsebau;1;2;3;1;0
+69;Ackerland;1;3;2;1;0
+70;Ackerland;1;4;4;1;0
+71;Mutterkuhhaltung;0;2;5;1;1
+72;Mutterkuhhaltung;0;4;3;1;1
+73;Ackerland;0;2;2;1;1
+74;Anderer Betriebsschwerpunkt;0;2;3;0;0
+75;Gemüsebau;0;1;4;0;0
+76;Ackerland;0;3;4;1;1
+77;Ackerland;1;4;5;1;1
+78;Anderer Betriebsschwerpunkt;0;5;5;0;0
+79;Gemüsebau;2;4;4;1;0
+80;Ackerland;1;3;5;1;0
+81;Anderer Betriebsschwerpunkt;0;1;3;1;0
