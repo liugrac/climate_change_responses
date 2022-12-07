@@ -3,7 +3,10 @@
 Welcome to Grace, Levina and Ariane's Capstone Project, where we analyzed how farmers in an area of Switzerland perceive, are influenced by, and implement mitigation strategies for climate change, as well as their social network. 
 
 ## Start from Cloning Our Repo
-```git clone https://github.com/liugrac/climate_change_responses.git```
+```
+git clone https://github.com/liugrac/climate_change_responses.git
+```
+
 For a list of requirement installs, see requirements.txt. The packages will be automatically installed when running the Jupyter Notebook. 
 
 ## Data
