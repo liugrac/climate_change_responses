@@ -4,3 +4,5 @@ seaborn
 visJS2jupyter
 plotly
 scipy
+sklearn
+yellowbrick
