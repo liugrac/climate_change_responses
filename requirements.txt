@@ -3,5 +3,4 @@ bokeh
 seaborn
 visJS2jupyter
 plotly
-sklearn
-scikit-learn
+scipy
