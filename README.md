@@ -16,6 +16,6 @@ For more background and details on the data, click [Data on farmers’ adoption 
 
 ## Data Analysis and Visualization
 Open [The Notebook on Unsupervised](https://github.com/liugrac/climate_change_responses/blob/main/Farmers%20and%20Climate%20Change%20-%20Exploratory%20Analysis%20.ipynb) to see the creation of the correlation heatmap as well as analysis on clusters of farmers
-![The clusters of farmer analysis visualization] (https://github.com/liugrac/climate_change_responses/blob/main/Visualization%20Output/Clusters.png)
+![alt text] (https://github.com/liugrac/climate_change_responses/blob/main/Visualization%20Output/Clusters.png)
 
 Open [The Notebook on Social Network](https://github.com/liugrac/climate_change_responses/blob/main/Farmers%20Social%20Network.ipynb) to see the network centralities and network graphs. 
