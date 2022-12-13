@@ -6,3 +6,6 @@ plotly
 scipy
 sklearn
 yellowbrick
+pandas
+numpy
+matplotlib
