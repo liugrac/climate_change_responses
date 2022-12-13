@@ -22,7 +22,6 @@ Open [The Notebook on Unsupervised](https://github.com/liugrac/climate_change_re
 
 ![image](https://user-images.githubusercontent.com/100817549/207013933-10a3b116-76bc-4d33-88a0-a25469544dfb.png)
 
-
 Open [The Notebook on Social Network](https://github.com/liugrac/climate_change_responses/blob/main/Farmers%20Social%20Network.ipynb) to see the network centralities and network graphs. 
 
 ![image](https://user-images.githubusercontent.com/100817549/207014279-7f55dc49-569c-48e2-8b9a-d92f1d921f97.png)
