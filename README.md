@@ -15,7 +15,7 @@ We have already downloaded the data we used from the websites [Survey Data URL](
 For more background and details on the data, click [Data on farmers’ adoption in a region of Switzerland](https://www.sciencedirect.com/science/article/pii/S2352340920303048#!) and [Social network data of Swiss farmers](https://www.sciencedirect.com/science/article/pii/S2352340921001827#tbl0001). 
 
 ## Data Analysis and Visualization
-Open [The Notebook on Unsupervised](https://github.com/liugrac/climate_change_responses/blob/main/Farmers%20and%20Climate%20Change%20-%20Exploratory%20Analysis%20.ipynb) to see the creation of the correlation heatmap as well as analysis on clusters of farmers
+Open [The Notebook on Unsupervised](https://github.com/liugrac/climate_change_responses/blob/main/Exploratory%20%26%20Cluster%20Analysis.ipynb) to see the creation of the correlation heatmap as well as analysis on clusters of farmers
 
 
 ![image](https://user-images.githubusercontent.com/100817549/207014148-4b84ddde-74ae-4a08-a0df-6b29428a9141.png)
