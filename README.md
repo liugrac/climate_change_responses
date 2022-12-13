@@ -18,12 +18,14 @@ For more background and details on the data, click [Data on farmers’ adoption 
 Open [The Notebook on Unsupervised](https://github.com/liugrac/climate_change_responses/blob/main/Farmers%20and%20Climate%20Change%20-%20Exploratory%20Analysis%20.ipynb) to see the creation of the correlation heatmap as well as analysis on clusters of farmers
 
 
-![image](https://user-images.githubusercontent.com/100817549/207014148-4b84ddde-74ae-4a08-a0df-6b29428a9141.png =100x20)
+![image](https://user-images.githubusercontent.com/100817549/207014148-4b84ddde-74ae-4a08-a0df-6b29428a9141.png)
 
-![image](https://user-images.githubusercontent.com/100817549/207013933-10a3b116-76bc-4d33-88a0-a25469544dfb.png =100x20)
+![image](https://user-images.githubusercontent.com/100817549/207013933-10a3b116-76bc-4d33-88a0-a25469544dfb.png)
+
+[<img src="[image.png](https://user-images.githubusercontent.com/100817549/207013933-10a3b116-76bc-4d33-88a0-a25469544dfb.png)" width="100"/>]([image.png](https://user-images.githubusercontent.com/100817549/207013933-10a3b116-76bc-4d33-88a0-a25469544dfb.png))
 
 
 
 Open [The Notebook on Social Network](https://github.com/liugrac/climate_change_responses/blob/main/Farmers%20Social%20Network.ipynb) to see the network centralities and network graphs. 
 
-![image](https://user-images.githubusercontent.com/100817549/207014279-7f55dc49-569c-48e2-8b9a-d92f1d921f97.png =100x20)
+![image](https://user-images.githubusercontent.com/100817549/207014279-7f55dc49-569c-48e2-8b9a-d92f1d921f97.png)
