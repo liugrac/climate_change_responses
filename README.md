@@ -22,6 +22,12 @@ Open [The Notebook on Unsupervised](https://github.com/liugrac/climate_change_re
 
 ![image](https://user-images.githubusercontent.com/100817549/207013933-10a3b116-76bc-4d33-88a0-a25469544dfb.png)
 
+Open [The Notebook on Regression](https://github.com/liugrac/climate_change_responses/blob/main/Exploratory%20%26%20Regression%20Analysis.ipynb) to see additional correlation and exploratory analysis plots as well as regression analysis of farming and climate change behaviors.
+
+![image](https://github.com/liugrac/climate_change_responses/blob/main/Visualization%20Output/Correlation2.png)
+
+![image](https://github.com/liugrac/climate_change_responses/blob/main/Visualization%20Output/Residuals.png)
+
 Open [The Notebook on Social Network](https://github.com/liugrac/climate_change_responses/blob/main/Farmers%20Social%20Network.ipynb) to see the network centralities and network graphs. 
 
 ![image](https://user-images.githubusercontent.com/100817549/207014279-7f55dc49-569c-48e2-8b9a-d92f1d921f97.png)
